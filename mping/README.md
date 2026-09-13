@@ -1,2 +1,2 @@
 # Name: mping 
-# INFO: This is a tool for ping servers currently.
+# INFO: This is a tool for ping servers concurrently.
